@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_d878009eabf33711612093921c8d879176dc7a8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.1_d6ee9e1f9601eccc67b1e7ca24462a4258ea91dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.0_0b7e2beaa57cc889597628ca635bb80135a181cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.1_693545c9af37e74d19ec04cf3b750686e77eb750/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_3eca0075c86b4cc1932349a082e5b43da94a5175/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.1_be6a2a402e26c40ca90e7ab4c6801e82c035d262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.1_99e7d839752ae4345b5e0864fc7bc980b7881b11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.1_6380f13f9feb7b8d80cc982e7d9aa0b9b18396d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.0_371cb2055d6c585cb06567f61fb10034f2949745/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.1_1d768e5e14927970d31ba3b59359c85d71bc178b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.1_f98e59f15c34ee383c0f48d320013fc732fc948e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.2.1_c7d244acef0723b6717162aebb75a5a61ecd01cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.1_b9edb07b737c38f74d8b244a071dda91c80e6586/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.1_7ade3f8557925d82b2111c64d51624c196ed10bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.1_9d187e30ee9ccf82e238e85919b96fe0fb563376/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.1_579e6a70938a98629955ddcc2181a451f58fa091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.1_dcedbad70e3174d3324d4b66788b6b53f0dcbdb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.1_a34a387cbf49f022fc984fe5e9cc984f5c6be0ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_3819a2d75fe8f15e968ceacb5c75d988c03d154f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.1_f7fdb3a57ccc74fba82879468f2ceb3ddbc1c54f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.1_9dc2b515455b44624972571a8ccee97d2b7fa8aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.1_ef1a537902c55e05d37df529ee240d3b504b45a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.1_a6d364d5e8a0628fb2c35af04c6473bbb02ab849/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.2.1_e4f4bc83cc318397570827995f17cca1bede990e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_ec413aaefd33231e6df4a4aaf89082c010685088/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.1_7f1c30896aed99a48ac17fb161ad8207c098f5bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.1_769fb788a7f3bc86c57f5e152c5831c44335a0b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.1_5e241c3a2553690e52569530220891f8dae5f113/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c75ad940c93cfac4c82d4aa0959fb8617f32875">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_38329aee52bc5f792f4280410c1061cc73e19fc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.1_d03f663be60c32bd8684c3e8c75a1726c84d6b88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.0_3999daaa868b9f2d15cdab398f31ec121168b665/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.1_f6f684dfaac65dcc8cdd6c4075d41141b0ea5580/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.1_5450d1bc2ed2b16021d7e3041c8722084417773e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.1_8ae0f2d489d9f8b47b0e18c37442ad8b3601aa6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.1_1c6cfe60586cb24cf6264dc2be10b9aeb31e0e88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.1_d18c64598ee94558477cd22b492018169aa8fd89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.1_d7ee3394a6880a1c9853debc0b358f3f9e8072ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.0_0aeca8793331897cc4edb55beab8206c10df817c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.1_6510a9210ad3ce43ad9643411742f9ddad3e5d52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.0_66b6ca72ebea4e4cde9f55aeedd2620f4fac11f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.1_f8f9fe562f4a96444d2a8b62e7d5ad80873c48fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.1_f1bf18b6c55fc0ab19b7079296b5e40054d50543/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.1_fb3b2d5b08931e04c168baa986b6bbe40685dab9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.0_f977ddb2dcab171c83715947b69f42674f93738d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.2.1_8b12f4818e5384ee50457c8b4cac482f7004d1e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.1_dea156947b7a6379c331370ae09fc34e3d9317e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.1_43a3980f7629c216b9bb888331b90cbd62de0cd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.1_3fe7be312e7861e8a394d58aa54eb668bbd19db6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.1_76d6f67ba2f4f2ccf3ba5da929b13e469f98aa94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_48bea446ceb83cd17671134b241262fca6b8ed8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.1_a89b6ff4a614bcf6bfb92047cdd2ef3932876a01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.1_4e9c4bbde9aa7e57b2146576222e644dc26fac85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.1_034b0413aa600c0b8f20d80b2785ff7b39002f8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.0_f698237c13a2ffdb4479b3b5a6687885ba944288/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.0_989e40e3b90936c80364d7dc615ee258a182439c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.1_ed66f199fe8223fc94ed225cc5575c8ba73dad8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01dfe1ff3f361fa385d44ba196f10065f8f36159">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4925a9c9e0b45785cc1c20de603fe4f3f1d1e4cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.0_a7b0dfb146abfd13b72b3ebdd69c6ba49787e866/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.1_1b6dd58dc59a622e3e1498aa4b46a840634f67dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.1_80084c1242f0c789710de898163c8eadb35b1596/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.1_0064db2978aea76d9cb3c925f46831e71e8cbe40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.1_736c7d351e6a38ddb1b33e2fdd2023f1fc6cf3f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.1_0d3eae8ed6154649e245bc1a5f5029136ee2cef3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/Users/jiro/workspace/android/AwesomeMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.1_a5609fa6efcec26bbbd5d2c42339c7bad84574e7/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AwesomeMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="file_paths">Map</string>
+    <string name="google_maps_key">AIzaSyDLseQBA9Vhs-5AQ8iMEXTmkCOnO1NIZHk</string>
+</resources>
